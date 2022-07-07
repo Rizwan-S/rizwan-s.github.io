@@ -1,18 +1,18 @@
 # Site settings
-title: Rabindra Lamsal
-general_email: rabindralamsal@outlook.com
-academic_email: 
+title: Mohd Rizwan Shaikh
+general_email: mohdrizwan.shaikh2112@gmail.com
+academic_email: mohdrizwan.shaikh@iiitb.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
   I believe, the hunger to learn should never saturate.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://rlamsal.com.np" # the base hostname & protocol for your site
+url: "https://rizwan-s.github.io/" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: 
-linkedin_username: 
+github_username: Rizwan-S
+linkedin_username: rizwans21
 facebook_username: 
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
