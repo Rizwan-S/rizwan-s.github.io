@@ -5,12 +5,14 @@ title: Experience
 ---
 
 
-<h3>Research Intern, Surgical and Assistive Robotics Lab - IIIT Bangalore</h3> 
+<h2>Research Intern, Surgical and Assistive Robotics Lab - IIIT Bangalore</h2> 
 <div><em>May 2022 - Present</em></div>
 
 - Working on fast and contact-less estimation of Systolic and Diastolic blood pressure using infrared thermography.
 
-<h3>Teaching Assistant, IIIT Bangalore</h3>
+<br>
+
+<h2>Teaching Assistant, IIIT Bangalore</h2>
 <div><em>January 2022 - May 2022</em></div>
 
 - Teaching assistant for <em>EC-304: Signal Processing</em> course at IIIT Bangalore. 
@@ -18,7 +20,9 @@ title: Experience
 - Reponded and answered student queries during office hours and asynchnously on other channels.
 - Graded assignments, projects, presentations and other student activities.
 
-<h3>Mentor, Let's Grow More Summer of Code 2021</h3>
+<br>
+
+<h2>Mentor, Let's Grow More Summer of Code 2021</h2>
 <div><em>June 2021 - August 2021</em></div>
 
 - Lets Grow More Summer Of Code is an online 2-month long open-source program, designed to encourage student participation in open source software development under the guidance of mentors from the open-source community.
