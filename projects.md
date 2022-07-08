@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: My Projects
+title: Projects
 ---
 
 Here is a non-exhaustive list of my projects. All of my projects can be found on <a href="https://github.com/Rizwan-S">my GitHub</a>.
