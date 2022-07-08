@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /projects/
-title: Non-Research Projects
+title: My Projects
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
-
-<h2>Projects carried out during Master's</h2>
+Here is a non-exhaustive list of my projects. All of my projects can be found on <a href="https://github.com/Rizwan-S">my GitHub</a>.
 
 
 <ul>	

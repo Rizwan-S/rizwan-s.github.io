@@ -1,14 +1,14 @@
 - title: "Home"
   href: "/"
 
-- title: "About"
-  href: "/about/"
+- title: "Experience"
+  href: "/experience/"
 
 - title: "Projects"
   href: "/projects/"
 
-- title: "Experience"
-  href: "/experience/"
+- title: Skills
+  href: "/skills/"
 
 - title: "Extracurriculars"
   href: "/extracurricular/"
@@ -16,7 +16,5 @@
 - title: "CV"
   href: "/rizwan_cv.pdf"
 
-- title: "Contact"
-  href: "/contact/"
   
   
