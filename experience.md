@@ -10,8 +10,6 @@ title: Experience
 
 - Working on fast and contact-less estimation of Systolic and Diastolic blood pressure using infrared thermography.
 
-<br>
-
 <h2>Teaching Assistant, IIIT Bangalore</h2>
 <div><em>January 2022 - May 2022</em></div>
 
@@ -19,8 +17,6 @@ title: Experience
 - Assisted <a>Prof. Vinod Reddy</a> in course development and instruction.
 - Reponded and answered student queries during office hours and asynchnously on other channels.
 - Graded assignments, projects, presentations and other student activities.
-
-<br>
 
 <h2>Mentor, Let's Grow More Summer of Code 2021</h2>
 <div><em>June 2021 - August 2021</em></div>
