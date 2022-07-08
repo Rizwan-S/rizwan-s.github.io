@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects
 ---
 
-Here is a non-exhaustive list of my projects. All of my projects can be found on <a href="https://github.com/Rizwan-S">my GitHub</a>.
+Here is a non-exhaustive list of my projects. All of my projects can be found on my <a href="https://github.com/Rizwan-S">GitHub</a>.
 
 
 <ul>	
