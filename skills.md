@@ -4,7 +4,7 @@ permalink: /skills/
 title: Skills
 ---
 
-Here is a non-exhaustive list of courses undertaken by me and my skills:
+Here is a non-exhaustive list of courses undertaken by me and a non-exhaustive list of my skills:
 
 <h2>Courses undertaken</h2>
 <h3>Computer Science</h3>
